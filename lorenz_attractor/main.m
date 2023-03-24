@@ -8,7 +8,7 @@ close all
 
 % Simulation parameters
 start_time = 0;
-stop_time = 3.3;
+stop_time = 3.14;
 dt = 0.01;
 time  = start_time:dt:stop_time; 
 
