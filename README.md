@@ -2,10 +2,11 @@
 
 <p align="center">
   <img src="logo.png" width=25%><br>
-  <b>METRIC TENSOR LABS</b>
+  <b>Metric Tensor Labs</b></br>
+  <i>Applied mathematics and advanced instrumentation for guidance, navigation, and control.</i>
 </p>
 
-## Numerical Specifications
+## Numerical specifications
 ```matlab
 % Lorenz equations
 x_dot = sigma * (y - x)
@@ -26,8 +27,9 @@ z = 20.0
 stop_time = 3.14
 dt = 0.01
 
-% Other considerations
-% 1. Numerical integrator: RK4
-% 2. Camera view: XZ plane
-% 3. Axes: Equal axes
+% Other specifications
+% 1. Integrator  : RK4
+% 2. Camera view : XZ plane
+% 3. Axes        : Equal axes
+% 4. Colour      : #0072bd RGB
 ```
